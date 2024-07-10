@@ -1,0 +1,1 @@
+"Hello This is first project in nextJS hope you love it"
